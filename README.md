@@ -1,4 +1,4 @@
-# TheLostSheeep
+# TheLostSheep
 3D cross platform adventure game for windows PC and android
 developed with Unity 3D and Fungus.
 Game theme based on Clonmel junction festival 2017.
